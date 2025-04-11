@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Was ist die Hauptstadt von Deutschland?",
+    "answers": ["Berlin", "Hamburg", "München"],
+    "correct_answer": "Berlin"
+  },
+  {
+    "question": "Wie viele Kontinente gibt es auf der Erde?",
+    "answers": ["5", "6", "7"],
+    "correct_answer": "7"
+  },
+  {
+    "question": "Was ist das größte Land der Welt?",
+    "answers": ["Vereinigte Staaten", "Russland", "China"],
+    "correct_answer": "Russland"
+  },
+  {
+    "question": "Wer malte die Mona Lisa?",
+    "answers": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso"],
+    "correct_answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "Welcher Planet ist der Sonne am nächsten?",
+    "answers": ["Venus", "Erde", "Merkur"],
+    "correct_answer": "Merkur"
+  },
+  {
+    "question": "In welchem Jahr landeten die ersten Menschen auf dem Mond?",
+    "answers": ["1969", "1959", "1979"],
+    "correct_answer": "1969"
+  },
+  {
+    "question": "Was ist die größte Insel der Welt?",
+    "answers": ["Grönland", "Neuguinea", "Borneo"],
+    "correct_answer": "Grönland"
+  },
+  {
+    "question": "Welche Farbe entsteht durch Mischen von Blau und Gelb?",
+    "answers": ["Grün", "Lila", "Orange"],
+    "correct_answer": "Grün"
+  },
+  {
+    "question": "Wie viele Sterne sind auf der Flagge der USA?",
+    "answers": ["50", "48", "52"],
+    "correct_answer": "50"
+  },
+  {
+    "question": "Wer ist der Erfinder des Telefons?",
+    "answers": ["Nikola Tesla", "Alexander Graham Bell", "Thomas Edison"],
+    "correct_answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Was ist die chemische Formel für Wasser?",
+    "answers": ["CO2", "O2", "H2O"],
+    "correct_answer": "H2O"
+  },
+  {
+    "question": "Was ist der längste Fluss der Welt?",
+    "answers": ["Amazonas", "Nil", "Yangtse"],
+    "correct_answer": "Amazonas"
+  },
+  {
+    "question": "Wie viele Planeten gibt es in unserem Sonnensystem?",
+    "answers": ["8", "9", "7"],
+    "correct_answer": "8"
+  },
+  {
+    "question": "In welchem Jahr fiel die Berliner Mauer?",
+    "answers": ["1989", "1990", "1987"],
+    "correct_answer": "1989"
+  },
+  {
+    "question": "Wer schrieb 'Die Leiden des jungen Werthers'?",
+    "answers": ["Johann Wolfgang von Goethe", "Friedrich Schiller", "Hermann Hesse"],
+    "correct_answer": "Johann Wolfgang von Goethe"
+  },
+  {
+    "question": "Was ist die chemische Formel für Kochsalz?",
+    "answers": ["NaCl", "KCl", "CaCl2"],
+    "correct_answer": "NaCl"
+  },
+  {
+    "question": "Welches Element hat das chemische Symbol O?",
+    "answers": ["Sauerstoff", "Gold", "Silizium"],
+    "correct_answer": "Sauerstoff"
+  },
+  {
+    "question": "Welches Tier ist das größte auf der Erde?",
+    "answers": ["Elefant", "Blauwal", "Giraffe"],
+    "correct_answer": "Blauwal"
+  },
+  {
+    "question": "Was ist die Hauptstadt von Frankreich?",
+    "answers": ["Paris", "Marseille", "Lyon"],
+    "correct_answer": "Paris"
+  },
+  {
+    "question": "In welchem Jahr endete der Zweite Weltkrieg?",
+    "answers": ["1945", "1944", "1946"],
+    "correct_answer": "1945"
+  },
+  {
+    "question": "Welches Land hat die größte Bevölkerung?",
+    "answers": ["Indien", "Vereinigte Staaten", "China"],
+    "correct_answer": "China"
+  },
+  {
+    "question": "Wer ist der CEO von Tesla?",
+    "answers": ["Elon Musk", "Jeff Bezos", "Bill Gates"],
+    "correct_answer": "Elon Musk"
+  },
+  {
+    "question": "Was ist das kleinste Land der Welt?",
+    "answers": ["San Marino", "Monaco", "Vatikanstadt"],
+    "correct_answer": "Vatikanstadt"
+  },
+  {
+    "question": "Wer malte die 'Sternennacht'?",
+    "answers": ["Claude Monet", "Vincent van Gogh", "Salvador Dalí"],
+    "correct_answer": "Vincent van Gogh"
+  },
+  {
+    "question": "Was ist die Hauptstadt von Italien?",
+    "answers": ["Rom", "Mailand", "Venedig"],
+    "correct_answer": "Rom"
+  },
+  {
+    "question": "Wie viele Tasten hat ein Standard-Klavier?",
+    "answers": ["88", "90", "84"],
+    "correct_answer": "88"
+  },
+  {
+    "question": "Welcher Planet wird als 'Roter Planet' bezeichnet?",
+    "answers": ["Venus", "Mars", "Jupiter"],
+    "correct_answer": "Mars"
+  },
+  {
+    "question": "Was ist der älteste bekannte menschliche Bau?",
+    "answers": ["Die Pyramiden von Gizeh", "Stonehenge", "Die Chinesische Mauer"],
+    "correct_answer": "Die Pyramiden von Gizeh"
+  },
+  {
+    "question": "Wer ist der Hauptcharakter in der 'Harry Potter'-Reihe?",
+    "answers": ["Harry Potter", "Hermione Granger", "Ron Weasley"],
+    "correct_answer": "Harry Potter"
+  },
+  {
+    "question": "Wie viele Kontinente gibt es auf der Erde?",
+    "answers": ["5", "6", "7"],
+    "correct_answer": "7"
+  },
+  {
+    "question": "In welchem Jahr wurde der erste iPhone veröffentlicht?",
+    "answers": ["2007", "2005", "2010"],
+    "correct_answer": "2007"
+  },
+  {
+    "question": "Wer schrieb '1984'?",
+    "answers": ["George Orwell", "Aldous Huxley", "J.K. Rowling"],
+    "correct_answer": "George Orwell"
+  },
+  {
+    "question": "Welches Land ist als 'Land der aufgehenden Sonne' bekannt?",
+    "answers": ["Japan", "China", "Indien"],
+    "correct_answer": "Japan"
+  },
+  {
+    "question": "Was ist der größte See der Welt?",
+    "answers": ["Kaspisches Meer", "Lake Superior", "Lake Victoria"],
+    "correct_answer": "Kaspisches Meer"
+  },
+  {
+    "question": "Welche Farbe hat der Smaragd?",
+    "answers": ["Rot", "Blau", "Grün"],
+    "correct_answer": "Grün"
+  },
+  {
+    "question": "Wie heißt das bekannte Gemälde von Edvard Munch?",
+    "answers": ["Die Geburt der Venus", "Das letzte Abendmahl", "Der Schrei"],
+    "correct_answer": "Der Schrei"
+  },
+  {
+    "question": "Welches ist das kleinste Land in Europa?",
+    "answers": ["Monaco", "San Marino", "Vatikanstadt"],
+    "correct_answer": "Vatikanstadt"
+  },
+  {
+    "question": "Welches Tier ist das Symbol für das Unternehmen 'Lacoste'?",
+    "answers": ["Krokodil", "Tiger", "Löwe"],
+    "correct_answer": "Krokodil"
+  },
+  {
+    "question": "Was ist die größte Wüste der Welt?",
+    "answers": ["Sahara", "Gobi", "Arktische Wüste"],
+    "correct_answer": "Sahara"
+  },
+  {
+    "question": "Was ist das nationale Gericht von Mexiko?",
+    "answers": ["Sushi", "Tacos", "Pizza"],
+    "correct_answer": "Tacos"
+  }
+]

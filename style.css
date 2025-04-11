@@ -1,0 +1,49 @@
+/* Allgemeine Styles für den Körper */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1e2a47; /* Blaue Hintergrundfarbe */
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+}
+
+/* Container für das Quiz */
+#quiz-container {
+  text-align: center;
+  width: 90%;
+  max-width: 600px;
+}
+
+/* Frage-Container */
+#question-container {
+  margin-bottom: 20px;
+}
+
+/* Antwortbuttons */
+.answer-btn {
+  display: block;
+  margin: 10px auto;
+  padding: 15px;
+  width: 80%;
+  background-color: #f8c32b;
+  color: #1e2a47;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.answer-btn:hover {
+  transform: scale(1.1); /* Wackel-Effekt beim Hover */
+}
+
+/* Score anzeigen */
+#score-container {
+  margin-top: 20px;
+  font-size: 18px;
+}
